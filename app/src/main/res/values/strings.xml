@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActualWeek4Test_01_Feb_2019</string>
+    <string name="empty_string" />
+    <string name="dashes">--------------------------</string>
+    <string name="enter_select_criteria">Enter Select Criteria.</string>
+    <string name="search">Search</string>
+    <string name="enter_text_to_search">Enter Text to Search</string>
+</resources>
